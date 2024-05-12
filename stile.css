@@ -1,0 +1,19 @@
+body {
+    height: 200px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f4/Spb_Finland_Bridge_asv2019-09_img2.jpg)
+    
+}
+
+h1 {
+    color: white;
+    font-size: 65px;
+    text-align: center;
+    line-height: 2.5;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+h2 {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    
+}
